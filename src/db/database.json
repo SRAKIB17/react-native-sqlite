@@ -1,0 +1,94 @@
+{
+    "months": [
+        {
+            "id": 0,
+            "month": "January"
+        },
+        {
+            "id": 1,
+            "month": "February"
+        },
+        {
+            "id": 2,
+            "month": "March"
+        },
+        {
+            "id": 3,
+            "month": "April"
+        },
+        {
+            "id": 4,
+            "month": "May"
+        },
+        {
+            "id": 5,
+            "month": "June"
+        },
+        {
+            "id": 6,
+            "month": "July"
+        },
+        {
+            "id": 7,
+            "month": "August"
+        },
+        {
+            "id": 8,
+            "month": "September"
+        },
+        {
+            "id": 9,
+            "month": "October"
+        },
+        {
+            "id": 10,
+            "month": "November"
+        },
+        {
+            "id": 11,
+            "month": "December"
+        }
+    ],
+    "transactions": [
+        {
+            "id": 1,
+            "datetime": "2023-10-01T08:30:00Z",
+            "title": "Groceries",
+            "amount": 50.00,
+            "details": "Purchased groceries for the week.",
+            "type": "expense"
+        },
+        {
+            "id": 2,
+            "datetime": "2023-10-01T18:45:00Z",
+            "title": "Dinner",
+            "amount": 30.00,
+            "details": "Dinner at a local restaurant.",
+            "type": "expense"
+        },
+        {
+            "id": 3,
+            "datetime": "2023-10-02T09:15:00Z",
+            "title": "Fuel",
+            "amount": 40.00,
+            "details": "Filled up gas for the car.",
+            "type": "expense"
+        },
+        {
+            "id": 4,
+            "datetime": "2023-10-02T13:00:00Z",
+            "title": "Coffee",
+            "amount": 5.00,
+            "details": "Bought a cup of coffee.",
+            "type": "expense"
+        },
+        {
+            "id": 5,
+            "datetime": "2023-10-03T12:00:00Z",
+            "title": "Freelance Work",
+            "amount": 200.00,
+            "details": "Completed freelance project.",
+            "type": "income"
+        }
+    ]
+}

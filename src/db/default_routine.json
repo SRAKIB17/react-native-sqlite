@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "day": "Sunday",
+        "time_slots": [
+            {
+                "from": "10.30 am",
+                "to": "11:30 am",
+                "details": "How to details",
+                "title": "Sleep"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "day": "Monday",
+        "time_slots": [
+            {
+                "id": 1,
+                "from": "12:00 am",
+                "to": "1:00 am",
+                "details": "Midnight",
+                "title": "Sleep"
+            },
+            {
+                "id": 2,
+                "from": "1:00 am",
+                "to": "6:00 am",
+                "details": "Early Morning",
+                "title": "Sleep"
+            },
+            {
+                "id": 3,
+                "from": "6:00 am",
+                "to": "12:00 pm",
+                "details": "Sleep",
+                "title": "Sleep"
+            },
+            {
+                "id": 4,
+                "from": "12:00 pm",
+                "to": "6:00 pm",
+                "details": "Afternoon",
+                "title": "Sleep"
+            },
+            {
+                "id": 5,
+                "from": "6:00 pm",
+                "to": "12:00 am",
+                "details": "Evening/Night",
+                "title": "Sleep"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "day": "Tuesday",
+        "time_slots": [
+            {}
+        ]
+    },
+    {
+        "id": 4,
+        "day": "Wednesday",
+        "time_slots": [
+            {}
+        ]
+    },
+    {
+        "id": 5,
+        "day": "Thursday",
+        "time_slots": [
+            {}
+        ]
+    },
+    {
+        "id": 6,
+        "day": "Friday",
+        "time_slots": [
+            {}
+        ]
+    },
+    {
+        "id": 7,
+        "day": "Saturday",
+        "time_slots": [
+            {}
+        ]
+    }
+]
